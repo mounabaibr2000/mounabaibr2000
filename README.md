@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mouna
-- I'm a passionate Full Stack Developer with experience in building web applications using technologies like HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and React.js. I have completed an internship as a Jr. Software Developer and worked on various projects that honed my skills in both frontend and backend development.
+- I'm a passionate Full Stack Developer with experience in building web applications using technologies like HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and React.js. I have completed an internship as a Jr. Software Developer.
 - ## 🔭 Current Project
 I'm currently working on an e-commerce project using Node.js, Express.js, MongoDB, and React.js.
 - 👀 I’m interested in Developing scalable web applications  Exploring new technologies in the MERN stack
